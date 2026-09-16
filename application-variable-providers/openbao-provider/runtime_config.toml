@@ -1,0 +1,5 @@
+[[config_provider]]
+type = "open_bao"
+url = "http://127.0.0.1:8200"
+token = "dev-only-token"
+mount = "secrets"
